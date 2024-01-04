@@ -51,3 +51,106 @@
     text-transform: capitalize;
     font-weight: bold;
 }
+.main_mainsec{
+    width: 1260px;
+    background-color: #fff;
+    margin: 0 auto;
+
+}
+.content{
+    width: 100%;
+    margin-top: 25px;
+
+}
+.welcom{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin:0 auto;
+    width: 85%;
+
+
+}
+.travel_mate{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 25px;
+    margin:0 auto;
+    width: 100%;
+}
+.travel_para{
+    width: 100%;
+    margin: auto;
+    text-align: justify;
+    padding: 10px;
+    font-size: 25px;
+
+}
+.p_s{
+    font-weight: bold;
+}
+.plnanig{
+    width: 100%;
+   margin-top:25px;
+   text-align: center;
+   font-size: 30px;
+   font-weight: 400;   
+}
+.btn{
+    position: absolute;
+    /* text-align: center; */
+    /* width: 100%; */
+   /* margin:0 auto; */
+   left: 45%;
+   margin-top: 30px;
+   width: 200px;
+   height: 60px;
+   background-color: rgb(56, 190, 243);
+   border: none;
+   border-radius: 25px;
+   display: block;
+
+}
+.btn:hover{
+    background-color: #fff;
+    border: 1px solid rgb(56, 190, 243); ;
+}
+.btn a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+.btn a:hover{
+    color: #0e1df1;
+}
+.sembel{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aqua;
+    position: absolute;
+    left: 48%;
+    margin-top: 120px;
+    display: block;
+}
+.sembel:hover{
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.sembel span{
+font-size: 20px;
+font-weight: bold;
+color: #fff;
+}
+.we_are{
+    width: 100%;
+   margin-top:230px;
+   padding: 20px;
+   font-size: 30px;
+   color: rgb(38, 150, 255);
+   text-align: center;
+
+}
