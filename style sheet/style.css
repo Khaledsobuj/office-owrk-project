@@ -51,6 +51,8 @@
     text-transform: capitalize;
     font-weight: bold;
 }
+/* ============================================================= */
+/* ============================================================= */
 .main_mainsec{
     width: 1260px;
     background-color: #fff;
@@ -145,6 +147,9 @@ font-size: 20px;
 font-weight: bold;
 color: #fff;
 }
+
+/* ====================================================== */
+/* ====================================================== */
 .we_are{
     width: 100%;
    margin-top:230px;
@@ -153,4 +158,37 @@ color: #fff;
    color: rgb(38, 150, 255);
    text-align: center;
 
+}
+.who_are{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.img_sec{
+    width: 50%;
+
+}
+.img_sec img{
+    width: 100%;
+}
+.cont_div{
+    width: 50%;
+    margin-left: 25px;
+   
+}
+.cont_div h1{
+    text-align: center;
+    font-size: 70px;
+}
+.cont_div p{
+    text-align: justify;
+    font-size:25px;
+    padding: 25px;
+}
+.cont_div button{
+    width:200px;
+    height: 60px;
+    border-radius: 25px;
+    background-color: rgb(0, 238, 255);
 }
